@@ -4,6 +4,8 @@ Pakistan General Elections Analysis 2008-2025
 
 Submitted to FAST-NUCES
 
+WEBSITE: https://hayyan.shinyapps.io/Election/
+
 1. Problem Statement
 
 Pakistan has generated extensive data about polling logistics along with party performance and demographic information since 2008 up until 2024. Multiple barriers exist in the marketplace that prevent people from properly understanding electoral data from 2008 to 2024. The developed interactive Shiny dashboard serves as a solution for this data gap by providing users with tools to visualize statistical data and develop linear regression predictions through a dynamic dashboard interface. The project aims to create data-based analytics and transparency systems that enhance Pakistan's voting situation.
